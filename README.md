@@ -1,5 +1,6 @@
 # MWPhotoBrowser-min
 A simple iOS photo browser with captions, without Grid. (based on https://github.com/mwaterfall/MWPhotoBrowser)
+Please note, that external libraries are not included in this version, to avoid redundancy and conflicting with different versions.
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=mwaterfall&url=https://github.com/mwaterfall/MWPhotoBrowser&title=MWPhotoBrowser&language=&tags=github&category=software)
 
