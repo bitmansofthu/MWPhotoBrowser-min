@@ -15,14 +15,6 @@ The browser can also be used to allow the user to select one or more photos usin
 [screenshot1]: https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Preview/MWPhotoBrowser1.png
 [screenshot2_thumb]: https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Preview/MWPhotoBrowser2t.png
 [screenshot2]: https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Preview/MWPhotoBrowser2.png
-[screenshot3_thumb]: https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Preview/MWPhotoBrowser3t.png
-[screenshot3]: https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Preview/MWPhotoBrowser3.png
-[screenshot4_thumb]: https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Preview/MWPhotoBrowser4t.png
-[screenshot4]: https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Preview/MWPhotoBrowser4.png
-[screenshot5_thumb]: https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Preview/MWPhotoBrowser5t.png
-[screenshot5]: https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Preview/MWPhotoBrowser5.png
-[screenshot6_thumb]: https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Preview/MWPhotoBrowser6t.png
-[screenshot6]: https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Preview/MWPhotoBrowser6.png
 
 Works on iOS 5.1.1+. All strings are localisable so they can be used in apps that support multiple languages.
 
