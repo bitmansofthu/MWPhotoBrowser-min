@@ -9,12 +9,10 @@ MWPhotoBrowser can display one or more images by providing either `UIImage` obje
 
 The browser can also be used to allow the user to select one or more photos using either the grid or main image view.
 
-[![Alt][screenshot1_thumb]][screenshot1]    [![Alt][screenshot2_thumb]][screenshot2]    [![Alt][screenshot3_thumb]][screenshot3]    [![Alt][screenshot4_thumb]][screenshot4]    [![Alt][screenshot5_thumb]][screenshot5]    [![Alt][screenshot6_thumb]][screenshot6]
+[![Alt][screenshot1_thumb]][screenshot1]    [![Alt][screenshot2_thumb]][screenshot2]
 
 [screenshot1_thumb]: https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Preview/MWPhotoBrowser1t.png
 [screenshot1]: https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Preview/MWPhotoBrowser1.png
-[screenshot2_thumb]: https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Preview/MWPhotoBrowser2t.png
-[screenshot2]: https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Preview/MWPhotoBrowser2.png
 
 Works on iOS 5.1.1+. All strings are localisable so they can be used in apps that support multiple languages.
 
