@@ -6,7 +6,7 @@ Please note, that external libraries are not included in this version, to avoid 
 
 Simply add the source files to your project in XCode. If build fails because of different external library versions, you should modify the source code on your own to fit to that version. (I know it's not out of the box solution, but having e.g. 2 different versions of SDWebImage in a single app is also not too smart...)
 
-## Requied external libraries
+## Required external libraries
 
 MWPhotoBrowser very gratefully makes use of these other fantastic open source projects:
 
