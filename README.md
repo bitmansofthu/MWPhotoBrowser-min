@@ -1,5 +1,5 @@
 # MWMinPhotoBrowser
-A minimal iOS photo browser with captions. (based on https://github.com/mwaterfall/MWPhotoBrowser without the grid feature)
+A minimal iOS photo browser with captions optimized and tested on iOS 7. (based on https://github.com/mwaterfall/MWPhotoBrowser without the grid feature)
 Please note, that external libraries are not included in this version, to avoid redundancy and conflicting with different versions.
 
 ## Adding to your project
