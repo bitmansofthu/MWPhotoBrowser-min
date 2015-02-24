@@ -14,9 +14,6 @@ MWPhotoBrowser very gratefully makes use of these other fantastic open source pr
 - [MBProgressHUD](https://github.com/jdg/MBProgressHUD) by Jonathan George — Used to display activity notifications.
 - [DACircularProgress](https://github.com/danielamitay/DACircularProgress) by Daniel Amitay — Used to display image download progress.
 
-Demo photos kindly provided by Oliver Waters (<http://twitter.com/oliverwaters>).
-
-
 ## Licence
 
 Copyright (c) 2010 Michael Waterfall <michaelwaterfall@gmail.com>
